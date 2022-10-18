@@ -6,15 +6,6 @@ Sou uma estudante trans com olho de peixe morto & *"tech enjoyer"*  :]
 
 **Instituto Federal do Mato Grosso do Sul** me encontrando atualmente no **4°** semestre.
  
-# Picture of me
-
-  _____
- /     \
-| () () |
- \  ^  /
-  |||||
-  |||||
-
 # Avaliação
 
 - [x] Gostou?
