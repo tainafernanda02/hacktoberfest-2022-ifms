@@ -11,3 +11,9 @@ Frequentando o 4/6 semestre do curso técnico em informática.
 
 Pretendo continuar atuando na area de tecnologia/informática, mais expecificamente Engenharia Mecatrônica.
 Frequentando o 4/6 semestre do curso técnico em informática
+
+# Auto-Avaliacao
+
+HTML:1/10
+JS:1/10
+NODE:2/10
