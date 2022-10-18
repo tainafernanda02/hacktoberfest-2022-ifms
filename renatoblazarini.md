@@ -11,3 +11,7 @@ Formado no Ensino Fundamental
 
 INSTAGRAM - renatoblazarini
 WHATSAPP - (67) 984x4-4474
+
+# Profissão 
+
+Designer Grafico/ Gestor de Tráfego online
