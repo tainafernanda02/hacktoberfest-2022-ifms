@@ -6,4 +6,4 @@ Aluno do Instituto Federal de Nova Andradina MS
 
 #Formação Acadêmica
 
-curso médio integrado de informática IFMS
+curso médio integrado de informática 4/6 IFMS 
