@@ -22,3 +22,7 @@ Ensino Fundamental pela Escola Estadual Doutor Martinho Marques
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⢿⣿⣿⣿⣿⡿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+# Projeto
+
+Aperfeiçoamento e Análise Pedagógica de Materiais Didáticos Concretos 3-D Inclusivos para Pessoas com Deficiência Visual Visando a Aprendizagem de Modelagem de Sistemas de Informação (Chamada FUNDECT n. 15/2022 - PICTEC MS)

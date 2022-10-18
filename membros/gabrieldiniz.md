@@ -5,7 +5,7 @@ Estudante do IFMS de nova andradina
 Cursando informatica no IFMS
 
 # Idiomas
-Português e Inglês
+Portugues e Inglês
 
 # Competências
-MongoDB (banco de dados)
+MondoDB (banco de dados)
