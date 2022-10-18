@@ -1,15 +1,15 @@
 # Isabela Pires Oliveira 
 
-Aluna do IFMS, estudante do 4 semestre do tecnico de informatica 
+aluna do ifms, tecnico de info
 
 # Isabela Pires Oliveira 
 
-gosto de gatinhos 
-
-# Isabela Pires Oliveira
-
-estudante do ifms
+tenho o ensino fundamental 1 e 2 concluidos em escola particular e estou cursando o segundo ano do ensino medio no IFMS 
 
 # Isabela Pires Oliveira 
 
-gosto de todos os tipo de musicas 
+gosto de gatinhos e de musicas depressivas 
+
+# Isabela Pires Oliveira 
+
+pessoas que eu gosto: gustavo, karol, natasha, eu 
