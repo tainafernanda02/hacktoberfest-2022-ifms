@@ -2,6 +2,10 @@
 
 Estudante do Ensino Médio Técnico Integrado em Informática do Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul, Campus Nova Andradina.
 
-#Formação
+# Formação
 
 Ensino Fundamental pela Escola Estadual Nair Palácio de Souza
+
+# Contato
+
+E-mail rafae.cruz3@estudante.ifms.edu.br
