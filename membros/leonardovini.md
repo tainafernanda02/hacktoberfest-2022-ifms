@@ -9,4 +9,4 @@ Frequentando o 4/6 semestre do curso técnico em informática.
 
 # Area de atuação 
 
-Pretendo continuar atuando na area de tecnologia/informática, mais expecificamente Engenharia Mecatrônica
+Pretendo continuar atuando na area de tecnologia/informática, mais expecificamente Engenharia Mecatrônica.
