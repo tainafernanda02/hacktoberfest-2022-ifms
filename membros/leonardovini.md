@@ -5,4 +5,8 @@ Aluno do Instituto Federal do Mato Grosso do Sul, Nova Andradina
 
 # Formação Acadêmica
 
-Frequentando o 4/6 semestre do curso técnico em informática.
+Frequentando o 4/6 semestre do curso técnico em informática
+
+# Area de Atuação 
+
+Pretendo atuar na area de tecnologia, mais expecificamente na área de engenharia mecatrônica
