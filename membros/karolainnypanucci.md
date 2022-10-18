@@ -8,3 +8,6 @@ Estudante do Instituto Federal De Matosso do sul, campus Nova Andradina
 # Bandas favoritas 
 
 Nirvana, AC/DC, Quenn, KISS, Guns N' Roses, Europe, Bon jovi
+
+# Animais Favorito
+ gato, cachorro, borboletas e ursos
