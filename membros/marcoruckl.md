@@ -4,3 +4,6 @@ Instituto Federal Mato Grosso do Sul Estudante
 
 Minha Formação
 Informatica
+
+Informação util do dia --> BEBA AGUA
+
