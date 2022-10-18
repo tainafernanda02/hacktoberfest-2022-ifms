@@ -6,4 +6,4 @@ Estudante Instituto Federal MS - Campus : NA-2022
 
 Matriculado
 
-Técnico informatica.
+Técnico informatica. 
