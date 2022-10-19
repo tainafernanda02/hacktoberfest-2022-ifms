@@ -8,3 +8,6 @@ Cursando 6ª Semestre do Ensino Médio/técnico em informática na Instituição
 
 # Objetivos
 Passar no vestibular da UNIFESP
+
+# idade
+17 Anos
